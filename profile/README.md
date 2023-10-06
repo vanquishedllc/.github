@@ -1,5 +1,8 @@
 ## Welcome to ASTRO ARK GitHub
 
+Website: https:astro-pvp.com
+Discord: https://discord.gg/astroark
+
 https://www.youtube.com/c/Navoiz
 
 https://www.tiktok.com/@astro_pvp
