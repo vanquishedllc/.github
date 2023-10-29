@@ -2,15 +2,3 @@
 
 Official GitHub of the Astro PvP ARK server network.
 [AstroARK](https://astro-pvp.com) [discord.gg/astroark](https://discord.gg/astroark)
-
-### This is Astro ARK x100
-- All Maps
-- x100 Settings
-- No Mods
-- Plugins
-- Custom Lootdrops
-- Active Playerbase
-- Experienced Team
-- None Playing Admins
-- Steam and Epicgames
-- Tekgrams after 1 week
