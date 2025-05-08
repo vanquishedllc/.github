@@ -2,4 +2,5 @@
 
 Official GitHub of Vanquished Platforms LLC.
 [Vanquished](https://vanquished.gg) [discord.gg/vanquished](https://discord.gg/vanquished)
+
 [AstroARK](https://astro-pvp.com) [discord.gg/astroark](https://discord.gg/astroark)
